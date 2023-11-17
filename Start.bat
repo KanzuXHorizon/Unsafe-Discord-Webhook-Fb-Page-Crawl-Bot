@@ -1,0 +1,5 @@
+
+:START
+node Master.js
+IF %ERRORLEVEL% NEQ 0 GOTO START
+
